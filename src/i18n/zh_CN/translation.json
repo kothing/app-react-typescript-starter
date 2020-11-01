@@ -1,0 +1,9 @@
+{
+  "headerTranslation": {
+    "title": "React App 模板",
+    "slogan": "支持Typescript"
+  },
+  "i18nFeature": {
+    "selectLanguage": "选择语言"
+  }
+}

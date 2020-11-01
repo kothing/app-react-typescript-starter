@@ -1,0 +1,13 @@
+.radio {
+  display: inline-flex;
+  align-items: baseline;
+  padding: 0 6px;
+  cursor: pointer;
+}
+.radio input[type="radio"] {
+  cursor: pointer;
+}
+.radio label {
+  padding-left: 4px;
+  cursor: pointer;
+}

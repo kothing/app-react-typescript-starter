@@ -1,0 +1,9 @@
+{
+  "headerTranslation": {
+    "title": "React App Boilerplate",
+    "slogan": "Typescript support"
+  },
+  "i18nFeature": {
+    "selectLanguage": "Select Language"
+  }
+}

@@ -1,0 +1,38 @@
+.nav-bar {
+  width: 100%;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  padding: 0px 1.5rem;
+}
+
+.nav-bar .logo {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+.nav-bar .logo .title {
+  margin-right: 1rem;
+  font-weight: 600;
+}
+
+.nav-bar .nav {
+  display: flex;
+}
+
+.nav-bar a {
+  cursor: pointer;
+  text-decoration: none;
+  display: flex;
+  padding: 0.25rem 1rem;
+  font-size: 0.875rem;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+.github-icon svg {
+  width: 18px;
+}

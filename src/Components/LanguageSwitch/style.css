@@ -1,0 +1,11 @@
+.lang-change {
+  display: flex;
+  align-items: center;
+}
+
+.lang-change .label {
+  padding-right: 8px;
+}
+
+.lang-change .radio-group {
+}
