@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Usage
 
-Demo [https://app-react-typescript-starter.vercel.app/](https://app-react-typescript-starter.vercel.app/)
+Demo [https://app-react-typescript-starter.now.sh/](https://app-react-typescript-starter.now.sh/)
